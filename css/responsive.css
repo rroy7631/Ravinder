@@ -1,0 +1,178 @@
+
+@media  (max-width:1030px) {
+
+    nav{
+        position: fixed;
+        z-index: 2;
+    }
+
+
+    
+.firsBoxImg section{
+    
+    left: 20%;
+    
+   
+}
+
+
+.tranerHeadLine{
+    text-align: center;
+    margin: 50px 0px;
+    /* color:rgb(14, 14, 63) */
+}
+
+
+
+
+}
+
+@media  (max-width:800px) {
+
+   
+nav ul{
+    width: 100%;
+    position: fixed;
+    height: 100vh;
+    background-color: #1f7a8c;
+    /* background-color: rgb(39, 69, 114); */
+    top: 75px;
+    left: 0%;
+    display: none;
+    
+   
+   
+}   
+
+nav ul li{
+    display: block;
+    text-align: center;
+}
+.bars{
+    display: block;
+}
+
+
+.Serivce h1{
+     margin-top: 50px;
+
+}
+
+
+.firsBoxImg section{
+    left: 10%;
+    top: 55%;
+    /* z-index: 1; */
+    /* background-color: red; */
+    color: yellow;
+    text-align: center;
+}
+
+
+
+
+
+
+  /* support */
+
+
+ .starGym  .col-md-4{
+    margin-bottom: 100px;
+
+}
+
+}
+
+           /* 500px */
+@media (max-width:500px) {
+    .firsBoxImg img{
+    margin-top: 40px;
+    }
+
+
+
+    
+.Serivce h1{
+    /* margin-top: 20px; */
+    font-size: 30px;
+    /* background: rgb(97, 97, 97); */
+    padding: 30px 0px;
+
+}
+    
+.secondBox{
+    margin: 0px;
+}
+  
+
+.secondBox img{
+    margin-bottom: 15px; 
+   
+}
+
+
+    
+
+.firsBoxImg section{
+
+    left: 18%;
+    top: 30%;
+ 
+  }
+
+.firsBoxImg h1{
+    font-size: 15px;
+
+}
+.firsBoxImg h3{
+    font-size: 10px;
+}
+
+
+section button{
+    padding: 1PX 5PX;
+    font-size: 10px;
+    border-radius: 10px;
+    background-color: rgba(255, 0, 0, 0.637);
+
+}
+
+
+
+.tranerHeadLine{
+    
+    margin: 10px 0px;
+    }
+    
+
+.tranerHeadLine h3{
+    font-size: 20px;
+}
+
+
+
+.FooterIcon i{
+    font-size: 30px;
+    line-height: 50px ;
+    margin-left: 60px;
+    text-align: center;
+}
+
+
+}
+
+
+
+
+@media (max-width:374px) {
+
+
+    
+.firsBoxImg section{
+
+    left: 10%;
+    top: 22%;
+ 
+  }
+
+}
